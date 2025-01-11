@@ -7,8 +7,8 @@ void pembelian_tiket_bioskop ()
 
   do
  {
-     cout << "\t   Bioskop XXI Sukabumi"; cout << endl;
-     cout << "\t JL.Bhayangkara Sukabumi"; cout << endl;
+     cout << "\t   Bioskop XXI Bandung"; cout << endl;
+     cout << "\t JL.Bhayangkara Bandung"; cout << endl;
      cout << " =============================================" << endl;
      cout << "\t      DAFTAR MENU "; cout << endl;
      cout << "\t---------------------------------" << endl;
